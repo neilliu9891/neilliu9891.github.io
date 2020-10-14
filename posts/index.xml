@@ -5,10 +5,19 @@
     <link>https://neilliu9891.github.io/posts/</link>
     <description>Recent content in Posts on a gopher‘s and python&#39;s home</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Mon, 12 Oct 2020 19:28:21 +0800</lastBuildDate>
+    <lastBuildDate>Wed, 14 Oct 2020 07:07:11 +0800</lastBuildDate>
     
         <atom:link href="https://neilliu9891.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Create Python Docker Image</title>
+      <link>https://neilliu9891.github.io/2020/10/create-python-docker-image/</link>
+      <pubDate>Wed, 14 Oct 2020 07:07:11 +0800</pubDate>
+      
+      <guid>https://neilliu9891.github.io/2020/10/create-python-docker-image/</guid>
+      <description>Create Python Docker Image 记一次基于centos docker镜像创建python 3.7.9版本镜像的过程, 创建流程比较简单，目的记录使用了docker创建镜像</description>
+    </item>
     
     <item>
       <title>Golang Private Lab</title>

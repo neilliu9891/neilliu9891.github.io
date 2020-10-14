@@ -5,18 +5,18 @@
     <link>https://neilliu9891.github.io/categories/%E6%8A%80%E6%9C%AF%E6%9D%82%E8%B0%88/</link>
     <description>Recent content in 技术杂谈 on a gopher‘s and python&#39;s home</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Tue, 13 Oct 2020 08:01:32 +0800</lastBuildDate>
+    <lastBuildDate>Wed, 14 Oct 2020 07:07:11 +0800</lastBuildDate>
     
         <atom:link href="https://neilliu9891.github.io/categories/%E6%8A%80%E6%9C%AF%E6%9D%82%E8%B0%88/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Git Submodule简单应用</title>
-      <link>https://neilliu9891.github.io/2020/10/git-submodule/</link>
-      <pubDate>Tue, 13 Oct 2020 08:01:32 +0800</pubDate>
+      <title>Create Python Docker Image</title>
+      <link>https://neilliu9891.github.io/2020/10/create-python-docker-image/</link>
+      <pubDate>Wed, 14 Oct 2020 07:07:11 +0800</pubDate>
       
-      <guid>https://neilliu9891.github.io/2020/10/git-submodule/</guid>
-      <description>Git Submodule 命令 问题：如果我们的项目中需要其他git项目作为我们的lib库使用，且这个lib库也是我们来维护，如何让我们在项目修改中不用关心是lib</description>
+      <guid>https://neilliu9891.github.io/2020/10/create-python-docker-image/</guid>
+      <description>Create Python Docker Image 记一次基于centos docker镜像创建python 3.7.9版本镜像的过程, 创建流程比较简单，目的记录使用了docker创建镜像</description>
     </item>
     
     <item>
