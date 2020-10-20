@@ -10,6 +10,15 @@
     
     
     <item>
+      <title>Golang Xmltag</title>
+      <link>https://neilliu9891.github.io/2020/10/golang-xmltag/</link>
+      <pubDate>Tue, 20 Oct 2020 10:47:58 +0800</pubDate>
+      
+      <guid>https://neilliu9891.github.io/2020/10/golang-xmltag/</guid>
+      <description>Golang Tag Marshal and UnMarshal Golang 支持tag功能，对于固定结构的结构体非常友好，最近再尝试用golang重新编写netconf api,涉及到xml的生成与解析功能</description>
+    </item>
+    
+    <item>
       <title>Create Python Docker Image</title>
       <link>https://neilliu9891.github.io/2020/10/create-python-docker-image/</link>
       <pubDate>Wed, 14 Oct 2020 07:07:11 +0800</pubDate>
