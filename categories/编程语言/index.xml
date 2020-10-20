@@ -5,10 +5,19 @@
     <link>https://neilliu9891.github.io/categories/%E7%BC%96%E7%A8%8B%E8%AF%AD%E8%A8%80/</link>
     <description>Recent content in 编程语言 on a gopher‘s and python&#39;s home</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Tue, 20 Oct 2020 10:47:58 +0800</lastBuildDate>
+    <lastBuildDate>Tue, 20 Oct 2020 17:05:34 +0800</lastBuildDate>
     
         <atom:link href="https://neilliu9891.github.io/categories/%E7%BC%96%E7%A8%8B%E8%AF%AD%E8%A8%80/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Golang交叉编译</title>
+      <link>https://neilliu9891.github.io/2020/10/golang%E4%BA%A4%E5%8F%89%E7%BC%96%E8%AF%91/</link>
+      <pubDate>Tue, 20 Oct 2020 17:05:34 +0800</pubDate>
+      
+      <guid>https://neilliu9891.github.io/2020/10/golang%E4%BA%A4%E5%8F%89%E7%BC%96%E8%AF%91/</guid>
+      <description>Golang 交叉编译 由于自己的开发环境是Linux开发环境，但自己编写的工具需要运行在windows的环境中，所以需要用到交叉编译工具. Ubuntu下</description>
+    </item>
     
     <item>
       <title>Golang Xmltag</title>
