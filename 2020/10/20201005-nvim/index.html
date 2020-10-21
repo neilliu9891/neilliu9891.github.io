@@ -21,7 +21,7 @@
     
     
     <meta name="description" content="种草很久的neovim工具使用 由于一直羡慕大神们用vim工具快速的编辑代码，并且羡慕能够不断优化适合自己的IDE工具。所以选择了neovim" />
-    <meta name="generator" content="Hugo 0.68.3 with theme pure" />
+    <meta name="generator" content="Hugo 0.74.3 with theme pure" />
     <title>Golang IDE工具搭建（neovim篇） - a gopher‘s and python&#39;s home</title>
     
     
@@ -37,13 +37,14 @@
 <meta property="article:modified_time" content="2020-10-05T21:00:00+08:00" />
 <meta itemprop="name" content="Golang IDE工具搭建（neovim篇）">
 <meta itemprop="description" content="种草很久的neovim工具使用 由于一直羡慕大神们用vim工具快速的编辑代码，并且羡慕能够不断优化适合自己的IDE工具。所以选择了neovim">
-<meta itemprop="datePublished" content="2020-10-05T21:00:00&#43;08:00" />
-<meta itemprop="dateModified" content="2020-10-05T21:00:00&#43;08:00" />
-<meta itemprop="wordCount" content="4764">
+<meta itemprop="datePublished" content="2020-10-05T21:00:00+08:00" />
+<meta itemprop="dateModified" content="2020-10-05T21:00:00+08:00" />
+<meta itemprop="wordCount" content="4983">
 
 
 
-<meta itemprop="keywords" content="neovim,golang," /><meta name="twitter:card" content="summary"/>
+<meta itemprop="keywords" content="neovim,golang," />
+<meta name="twitter:card" content="summary"/>
 <meta name="twitter:title" content="Golang IDE工具搭建（neovim篇）"/>
 <meta name="twitter:description" content="种草很久的neovim工具使用 由于一直羡慕大神们用vim工具快速的编辑代码，并且羡慕能够不断优化适合自己的IDE工具。所以选择了neovim"/>
 
@@ -301,7 +302,7 @@
 
         <span class="post-comment"><i class="icon icon-comment"></i>&nbsp;<a href="/2020/10/20201005-nvim/#comments"
             class="article-comment-link">Comments</a></span>
-		<span class="post-wordcount hidden-xs" itemprop="wordCount">Word Count: 4764words</span>
+		<span class="post-wordcount hidden-xs" itemprop="wordCount">Word Count: 4983words</span>
 		<span class="post-readcount hidden-xs" itemprop="timeRequired">Read Count: 10minutes </span>
       </div>
     </div>
@@ -580,6 +581,11 @@ type Foo struct {
 	Name string # 此处输入json,则会自动添加`json:&quot;name&quot;`
 }
 </code></pre>
+<p>Q: 发现一个问题就是在输入errp后没有提示信息，即没有一个列表显示可选项。但是直接输入tab确实能够生成代码，非常考验记忆力
+A: 将go.snippets移动到~/.config/nvim/UltiSnips/go.snippets 中,好处可以通过维护自己的go.snippets</p>
+<ul>
+<li>快捷键：tab-j 跳向下一个可修改参数 tab-k 跳向上一个可修改参数</li>
+</ul>
 <p>默认情况下json字符串的格式是下划线的形式，如果想要使用驼峰式，则可以进行如下修改：</p>
 <pre><code>let g:go_addtags_transform = &quot;camelcase&quot;
 </code></pre>
@@ -762,6 +768,15 @@ let g:mdip_imgdir_intext = '/images'
 <blockquote>
 <p>参考https://www.cnblogs.com/mazhuang/p/12863702.html</p>
 </blockquote>
+<h4 id="系统剪切板">系统剪切板</h4>
+<ul>
+<li>neovim 是不支持与系统剪切板互通的，可以通过如下设置开启</li>
+</ul>
+<pre><code>set clipboard+=unnamedplus
+# 需要安装剪切工具
+# Linux sudo pacman -S xsel
+# MacOs brew pbcopy
+</code></pre>
 
     </div>
     <div class="article-footer">
