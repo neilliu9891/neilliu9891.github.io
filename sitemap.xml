@@ -4,21 +4,49 @@
   
   <url>
     <loc>https://neilliu9891.github.io/categories/</loc>
-    <lastmod>2020-10-26T10:18:35+08:00</lastmod>
+    <lastmod>2020-10-26T16:16:54+08:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://neilliu9891.github.io/tags/git/</loc>
+    <lastmod>2020-10-26T16:16:54+08:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://neilliu9891.github.io/2020/10/git-bit%E6%95%88%E7%8E%87%E5%B7%A5%E5%85%B7/</loc>
+    <lastmod>2020-10-26T16:16:54+08:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
     <loc>https://neilliu9891.github.io/posts/</loc>
-    <lastmod>2020-10-26T10:18:35+08:00</lastmod>
+    <lastmod>2020-10-26T16:16:54+08:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
     <loc>https://neilliu9891.github.io/tags/</loc>
-    <lastmod>2020-10-26T10:18:35+08:00</lastmod>
+    <lastmod>2020-10-26T16:16:54+08:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://neilliu9891.github.io/categories/%E6%95%88%E7%8E%87/</loc>
+    <lastmod>2020-10-26T16:16:54+08:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://neilliu9891.github.io/categories/%E6%95%88%E7%8E%87%E5%B7%A5%E5%85%B7/</loc>
+    <lastmod>2020-10-26T16:16:54+08:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
@@ -32,13 +60,6 @@
   
   <url>
     <loc>https://neilliu9891.github.io/tags/work/</loc>
-    <lastmod>2020-10-26T10:18:35+08:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>https://neilliu9891.github.io/categories/%E6%95%88%E7%8E%87/</loc>
     <lastmod>2020-10-26T10:18:35+08:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
@@ -94,13 +115,6 @@
   </url>
   
   <url>
-    <loc>https://neilliu9891.github.io/tags/git/</loc>
-    <lastmod>2020-10-12T19:28:21+08:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
     <loc>https://neilliu9891.github.io/2020/10/golang-private-lab/</loc>
     <lastmod>2020-10-12T19:28:21+08:00</lastmod>
     <changefreq>monthly</changefreq>
@@ -130,13 +144,6 @@
   
   <url>
     <loc>https://neilliu9891.github.io/tags/neovim/</loc>
-    <lastmod>2020-10-05T21:00:00+08:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>https://neilliu9891.github.io/categories/%E6%95%88%E7%8E%87%E5%B7%A5%E5%85%B7/</loc>
     <lastmod>2020-10-05T21:00:00+08:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
