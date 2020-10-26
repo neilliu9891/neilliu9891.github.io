@@ -5,10 +5,19 @@
     <link>https://neilliu9891.github.io/tags/</link>
     <description>Recent content in Tags on a gopher‘s and python&#39;s home</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Tue, 20 Oct 2020 17:05:34 +0800</lastBuildDate>
+    <lastBuildDate>Mon, 26 Oct 2020 10:18:35 +0800</lastBuildDate>
     
         <atom:link href="https://neilliu9891.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Windows桌面提升办公效率技巧</title>
+      <link>https://neilliu9891.github.io/2020/10/windows-work/</link>
+      <pubDate>Mon, 26 Oct 2020 10:18:35 +0800</pubDate>
+      
+      <guid>https://neilliu9891.github.io/2020/10/windows-work/</guid>
+      <description>Windows 操作系统 效率（摸鱼）技巧 Windows 10多桌面操作 Windows 多桌面功能可以让你的电脑像mac一样将不同的项目，需要长期保留的项目分别放在不同的虚拟桌面上，这</description>
+    </item>
     
     <item>
       <title>Golang交叉编译</title>
