@@ -5,10 +5,19 @@
     <link>https://neilliu9891.github.io/tags/</link>
     <description>Recent content in Tags on a gopher‘s and python&#39;s home</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Mon, 26 Oct 2020 16:16:54 +0800</lastBuildDate>
+    <lastBuildDate>Fri, 30 Oct 2020 09:52:44 +0800</lastBuildDate>
     
         <atom:link href="https://neilliu9891.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Golang交叉编译2</title>
+      <link>https://neilliu9891.github.io/2020/10/golang%E4%BA%A4%E5%8F%89%E7%BC%96%E8%AF%912/</link>
+      <pubDate>Fri, 30 Oct 2020 09:52:44 +0800</pubDate>
+      
+      <guid>https://neilliu9891.github.io/2020/10/golang%E4%BA%A4%E5%8F%89%E7%BC%96%E8%AF%912/</guid>
+      <description>Golang交叉编译必知必会 需求 在Linux x86的操作系统上编译 Linux Aarch64平台的golang程序，程序中引用的cgo代码。 典型的交叉</description>
+    </item>
     
     <item>
       <title>Git Bit效率工具</title>
