@@ -3,6 +3,34 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://neilliu9891.github.io/posts/</loc>
+    <lastmod>2020-11-24T09:57:37+08:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://neilliu9891.github.io/tags/</loc>
+    <lastmod>2020-11-24T09:57:37+08:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://neilliu9891.github.io/tags/%E6%97%B6%E9%97%B4%E7%AE%A1%E7%90%86/</loc>
+    <lastmod>2020-11-24T09:57:37+08:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://neilliu9891.github.io/2020/11/%E6%97%B6%E9%97%B4%E7%AE%A1%E7%90%86/</loc>
+    <lastmod>2020-11-24T09:57:37+08:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
     <loc>https://neilliu9891.github.io/categories/</loc>
     <lastmod>2020-10-30T09:52:44+08:00</lastmod>
     <changefreq>monthly</changefreq>
@@ -18,20 +46,6 @@
   
   <url>
     <loc>https://neilliu9891.github.io/2020/10/golang%E4%BA%A4%E5%8F%89%E7%BC%96%E8%AF%912/</loc>
-    <lastmod>2020-10-30T09:52:44+08:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>https://neilliu9891.github.io/posts/</loc>
-    <lastmod>2020-10-30T09:52:44+08:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>https://neilliu9891.github.io/tags/</loc>
     <lastmod>2020-10-30T09:52:44+08:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
