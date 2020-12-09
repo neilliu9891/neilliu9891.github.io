@@ -39,7 +39,7 @@
 <meta itemprop="description" content="Golang Private Lab 从gitlab私有仓库获取golang依赖包 例如golang go.mod文件中有如下配置信息 module agent go 1.13 require ( ... moove/libvirt/libvirt-go v1.0.0 ) replace moove/libvirt/libvirt-go =&gt; 10.0.45.221/moove/libvirt-go v1.0.5 # 替换成本地">
 <meta itemprop="datePublished" content="2020-10-12T19:28:21&#43;08:00" />
 <meta itemprop="dateModified" content="2020-10-12T19:28:21&#43;08:00" />
-<meta itemprop="wordCount" content="799">
+<meta itemprop="wordCount" content="997">
 
 
 
@@ -315,7 +315,7 @@
 
         <span class="post-comment"><i class="icon icon-comment"></i>&nbsp;<a href="/2020/10/golang-private-lab/#comments"
             class="article-comment-link">Comments</a></span>
-		<span class="post-wordcount hidden-xs" itemprop="wordCount">Word Count: 799words</span>
+		<span class="post-wordcount hidden-xs" itemprop="wordCount">Word Count: 997words</span>
 		<span class="post-readcount hidden-xs" itemprop="timeRequired">Read Count: 2minutes </span>
       </div>
     </div>
@@ -400,9 +400,11 @@ ssh-add ~/.ssh/other_id_rsa
 <pre><code>go env -w GO111MODULE=on  # 重点，启用go mod
 go env -w GOPRIVATE=&quot;10.0.45.221&quot; # 使用私有库，
 go get -u -v -insecure 10.0.45.221/moove/libvirt-go@latest # 获取libvirt-go的库
-![go env](/images/image_2020-10-12-20-36-49.png)```
-重点是配置开启MODULE模式，以及配置私有golang仓库的地址
 </code></pre>
+<p><strong>提示：go get 操作 -insecure表示使用http方式请求，lastest表示获取最新版本，但是可能go.mod中需要的并不是lastest版本，所以此处要指定对版本。操作的目的是手动先下载下来版本，之后go build时就不会自动下载了。</strong>
+<strong>go build去下载时都是采用https的方式，由于private lab可能不支持https所以导致下载失败。提示类似错误：go: <a href="mailto:moove/uni-network/ovn-store/go-ovn@v1.0.2">moove/uni-network/ovn-store/go-ovn@v1.0.2</a>: unrecognized import path &ldquo;10.0.45.221/moove/uni-network/ovn-store/go-ovn&rdquo; (https fetch: Get https://10.0.45.221/moove/uni-network/ovn-store/go-ovn?go-get=1: dial tcp 10.0.45.221:443: connect: no route to host)</strong></p>
+<p><img src="/images/image_2020-10-12-20-36-49.png" alt="go env">
+重点是配置开启MODULE模式，以及配置私有golang仓库的地址</p>
 
     </div>
     <div class="article-footer">
