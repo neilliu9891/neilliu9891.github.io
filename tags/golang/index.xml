@@ -5,10 +5,19 @@
     <link>https://neilliu9891.github.io/tags/golang/</link>
     <description>Recent content in golang on a gopher‘s and python&#39;s home</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Wed, 09 Dec 2020 09:34:58 +0800</lastBuildDate>
+    <lastBuildDate>Thu, 10 Dec 2020 09:28:45 +0800</lastBuildDate>
     
         <atom:link href="https://neilliu9891.github.io/tags/golang/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Golang 记一次log日志不能输出的问题</title>
+      <link>https://neilliu9891.github.io/2020/12/golang-bj2/</link>
+      <pubDate>Thu, 10 Dec 2020 09:28:45 +0800</pubDate>
+      
+      <guid>https://neilliu9891.github.io/2020/12/golang-bj2/</guid>
+      <description>Golang 记一次log日志不能输出的问题 由于线上运行程序过程中出现了log日志打印不出来的情况，分析代码模拟测试复现问题。由于没有锁住log变量的问</description>
+    </item>
     
     <item>
       <title>Golang Bj</title>
