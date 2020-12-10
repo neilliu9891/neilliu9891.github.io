@@ -11,6 +11,15 @@
     
     
     <item>
+      <title>Golang Bj</title>
+      <link>https://neilliu9891.github.io/2020/12/golang-bj/</link>
+      <pubDate>Wed, 09 Dec 2020 09:34:58 +0800</pubDate>
+      
+      <guid>https://neilliu9891.github.io/2020/12/golang-bj/</guid>
+      <description>Golang笔记 20201208 记一次golang exec.Command操作 正常在命令行中执行的命令如下： virsh qemu-agent-command ecs-j9v040bxt8pu &#39;{&amp;quot;execute&amp;quot;:&amp;quot;guest-network-get-interfaces&amp;quot;}&#39; 需要在代码中执行此命令，但是一直报错，</description>
+    </item>
+    
+    <item>
       <title>时间管理读书笔记</title>
       <link>https://neilliu9891.github.io/2020/11/%E6%97%B6%E9%97%B4%E7%AE%A1%E7%90%86/</link>
       <pubDate>Tue, 24 Nov 2020 09:57:37 +0800</pubDate>
