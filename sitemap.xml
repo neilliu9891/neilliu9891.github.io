@@ -3,8 +3,50 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://neilliu9891.github.io/</loc>
+    <lastmod>2020-12-30T20:05:20+08:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
     <loc>https://neilliu9891.github.io/categories/</loc>
-    <lastmod>2020-12-10T09:28:45+08:00</lastmod>
+    <lastmod>2020-12-30T20:05:20+08:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://neilliu9891.github.io/post/</loc>
+    <lastmod>2020-12-30T20:05:20+08:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://neilliu9891.github.io/post/readinglist/</loc>
+    <lastmod>2020-12-30T20:05:20+08:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://neilliu9891.github.io/tags/</loc>
+    <lastmod>2020-12-30T20:05:20+08:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://neilliu9891.github.io/tags/%E9%93%BE%E6%8E%A5/</loc>
+    <lastmod>2020-12-30T20:05:20+08:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://neilliu9891.github.io/categories/%E9%93%BE%E6%8E%A5/</loc>
+    <lastmod>2020-12-30T20:05:20+08:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
@@ -25,13 +67,6 @@
   
   <url>
     <loc>https://neilliu9891.github.io/posts/</loc>
-    <lastmod>2020-12-10T09:28:45+08:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>https://neilliu9891.github.io/tags/</loc>
     <lastmod>2020-12-10T09:28:45+08:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
@@ -94,13 +129,6 @@
   </url>
   
   <url>
-    <loc>https://neilliu9891.github.io/categories/%E6%95%88%E7%8E%87/</loc>
-    <lastmod>2020-10-26T16:16:54+08:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
     <loc>https://neilliu9891.github.io/categories/%E6%95%88%E7%8E%87%E5%B7%A5%E5%85%B7/</loc>
     <lastmod>2020-10-26T16:16:54+08:00</lastmod>
     <changefreq>monthly</changefreq>
@@ -116,6 +144,13 @@
   
   <url>
     <loc>https://neilliu9891.github.io/tags/work/</loc>
+    <lastmod>2020-10-26T10:18:35+08:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://neilliu9891.github.io/categories/%E6%95%88%E7%8E%87/</loc>
     <lastmod>2020-10-26T10:18:35+08:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
@@ -208,13 +243,6 @@
   <url>
     <loc>https://neilliu9891.github.io/categories/%E9%9A%8F%E6%84%9F/</loc>
     <lastmod>2020-09-28T00:41:20+08:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>https://neilliu9891.github.io/</loc>
-    <lastmod>2020-09-28T00:08:02+08:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>

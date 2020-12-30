@@ -5,10 +5,19 @@
     <link>https://neilliu9891.github.io/tags/</link>
     <description>Recent content in Tags on a gopher‘s and python&#39;s home</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Thu, 10 Dec 2020 09:28:45 +0800</lastBuildDate>
+    <lastBuildDate>Wed, 30 Dec 2020 20:05:20 +0800</lastBuildDate>
     
         <atom:link href="https://neilliu9891.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Reading List</title>
+      <link>https://neilliu9891.github.io/post/readinglist/</link>
+      <pubDate>Wed, 30 Dec 2020 20:05:20 +0800</pubDate>
+      
+      <guid>https://neilliu9891.github.io/post/readinglist/</guid>
+      <description>selenium + golang 测试 https://bbs.huaweicloud.com/blogs/172024</description>
+    </item>
     
     <item>
       <title>Golang 记一次log日志不能输出的问题</title>
