@@ -4,21 +4,42 @@
   
   <url>
     <loc>https://neilliu9891.github.io/categories/</loc>
-    <lastmod>2020-12-31T16:05:23+08:00</lastmod>
+    <lastmod>2020-12-31T16:36:11+08:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
     <loc>https://neilliu9891.github.io/posts/</loc>
-    <lastmod>2020-12-31T16:05:23+08:00</lastmod>
+    <lastmod>2020-12-31T16:36:11+08:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
     <loc>https://neilliu9891.github.io/tags/</loc>
-    <lastmod>2020-12-31T16:05:23+08:00</lastmod>
+    <lastmod>2020-12-31T16:36:11+08:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://neilliu9891.github.io/tags/%E5%85%89/</loc>
+    <lastmod>2020-12-31T16:36:11+08:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://neilliu9891.github.io/2020/12/light/</loc>
+    <lastmod>2020-12-31T16:36:11+08:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://neilliu9891.github.io/categories/%E6%91%84%E5%BD%B1/</loc>
+    <lastmod>2020-12-31T16:36:11+08:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
@@ -40,6 +61,27 @@
   <url>
     <loc>https://neilliu9891.github.io/2020/12/%E6%B6%88%E6%81%AF%E4%B8%AD%E9%97%B4%E4%BB%B6%E8%A7%A3%E5%86%B3%E7%9A%84%E9%97%AE%E9%A2%98/</loc>
     <lastmod>2020-12-31T16:05:23+08:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://neilliu9891.github.io/2020/12/readinglist/</loc>
+    <lastmod>2020-12-30T20:05:20+08:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://neilliu9891.github.io/tags/%E9%93%BE%E6%8E%A5/</loc>
+    <lastmod>2020-12-30T20:05:20+08:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://neilliu9891.github.io/categories/%E9%93%BE%E6%8E%A5/</loc>
+    <lastmod>2020-12-30T20:05:20+08:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
