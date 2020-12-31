@@ -5,10 +5,19 @@
     <link>https://neilliu9891.github.io/tags/</link>
     <description>Recent content in Tags on a gopher‘s and python&#39;s home</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Thu, 10 Dec 2020 09:28:45 +0800</lastBuildDate>
+    <lastBuildDate>Thu, 31 Dec 2020 16:05:23 +0800</lastBuildDate>
     
         <atom:link href="https://neilliu9891.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>消息中间件解决的问题</title>
+      <link>https://neilliu9891.github.io/2020/12/%E6%B6%88%E6%81%AF%E4%B8%AD%E9%97%B4%E4%BB%B6%E8%A7%A3%E5%86%B3%E7%9A%84%E9%97%AE%E9%A2%98/</link>
+      <pubDate>Thu, 31 Dec 2020 16:05:23 +0800</pubDate>
+      
+      <guid>https://neilliu9891.github.io/2020/12/%E6%B6%88%E6%81%AF%E4%B8%AD%E9%97%B4%E4%BB%B6%E8%A7%A3%E5%86%B3%E7%9A%84%E9%97%AE%E9%A2%98/</guid>
+      <description>引用：&amp;gt; https://blog.csdn.net/ruanhao1203/article/details/89705602 Publish/Subscribe 发布订阅是消息中间件的最基本功能，也是相对传统 RPC 通信而言。 Message Priority 规范中描述的优先级是指在一个消息队列中，每条消息都有不同的优</description>
+    </item>
     
     <item>
       <title>Golang 记一次log日志不能输出的问题</title>
