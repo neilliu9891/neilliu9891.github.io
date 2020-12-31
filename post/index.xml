@@ -1,31 +1,22 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>随感 on a gopher‘s and python&#39;s home</title>
-    <link>https://neilliu9891.github.io/categories/%E9%9A%8F%E6%84%9F/</link>
-    <description>Recent content in 随感 on a gopher‘s and python&#39;s home</description>
+    <title>Posts on a gopher‘s and python&#39;s home</title>
+    <link>https://neilliu9891.github.io/post/</link>
+    <description>Recent content in Posts on a gopher‘s and python&#39;s home</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Mon, 28 Sep 2020 00:41:20 +0800</lastBuildDate>
+    <lastBuildDate>Wed, 30 Dec 2020 20:05:20 +0800</lastBuildDate>
     
-        <atom:link href="https://neilliu9891.github.io/categories/%E9%9A%8F%E6%84%9F/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="https://neilliu9891.github.io/post/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-<<<<<<< HEAD
-      <title>消息中间件解决的问题</title>
-      <link>https://neilliu9891.github.io/2020/12/%E6%B6%88%E6%81%AF%E4%B8%AD%E9%97%B4%E4%BB%B6%E8%A7%A3%E5%86%B3%E7%9A%84%E9%97%AE%E9%A2%98/</link>
-      <pubDate>Thu, 31 Dec 2020 16:05:23 +0800</pubDate>
-      
-      <guid>https://neilliu9891.github.io/2020/12/%E6%B6%88%E6%81%AF%E4%B8%AD%E9%97%B4%E4%BB%B6%E8%A7%A3%E5%86%B3%E7%9A%84%E9%97%AE%E9%A2%98/</guid>
-      <description>引用：&amp;gt; https://blog.csdn.net/ruanhao1203/article/details/89705602 Publish/Subscribe 发布订阅是消息中间件的最基本功能，也是相对传统 RPC 通信而言。 Message Priority 规范中描述的优先级是指在一个消息队列中，每条消息都有不同的优</description>
-=======
       <title>Reading List</title>
       <link>https://neilliu9891.github.io/post/readinglist/</link>
       <pubDate>Wed, 30 Dec 2020 20:05:20 +0800</pubDate>
       
       <guid>https://neilliu9891.github.io/post/readinglist/</guid>
       <description>selenium + golang 测试 https://bbs.huaweicloud.com/blogs/172024</description>
->>>>>>> 0228e6dca4bc8cd4fefa529211ff318968242f54
     </item>
     
     <item>
